@@ -9,7 +9,6 @@ ReAct-agent/
 ├── agent.py          # ReActAgent class: prompt, LLM call, loop logic
 ├── tools.py          # search_web(): Tavily API wrapper
 ├── main.py           # CLI entry point (interactive + benchmark modes)
-├── generate_report.py# Script to generate report.pdf
 ├── report.pdf        # Assignment report
 ├── .env.example      # Environment variable template
 └── requirements.txt  # Python dependencies
